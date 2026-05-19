@@ -1,0 +1,2 @@
+CORRECT_ID = "admin"
+CORRECT_PW = "1234"

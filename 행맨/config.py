@@ -1,0 +1,4 @@
+ID = "admin"
+PWD = "1234"
+
+MAX_LOGIN_ATTEMPTS = 3

@@ -1,0 +1,6 @@
+ID = "admin"
+PWD = "1234"
+
+GAME_START = 1
+GAME_END = 150
+MAX_LOGIN_ATTEMPTS = 3
