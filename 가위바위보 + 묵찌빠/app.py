@@ -1,6 +1,6 @@
 # app.py
 
-from game.mukjjippa_game import start_game
+from game.가위바위보+묵찌빠 import start_game
 from game.ranking_board import show_record
 
 
